@@ -1,7 +1,7 @@
-# **2024년 COSS 차세대반도체 Microcontroller 응용 경진대회**
-한국연구재단 이사장상(2위) 수상작
+# **2024 COSS 차세대반도체 MCU 응용 경진대회**
+**한국연구재단 이사장상(2위) 수상작**
 
-### **Saedol from BITDOL, Kyungpook Nat'l Univ.*
+### *Saedol from BITDOL, Kyungpook Nat'l Univ.*
 팀장 최승헌
 팀원 김규리, 남기웅, 정재웅
 
